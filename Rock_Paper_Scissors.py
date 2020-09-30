@@ -1,3 +1,4 @@
+#in this program you can play rock paper scissors
 loop=10
 while(loop>1):
  print('\n\n')
